@@ -1,0 +1,3 @@
+[submodule "references/shadcn-ui"]
+	path = references/shadcn-ui
+	url = https://github.com/shadcn-ui/ui.git
